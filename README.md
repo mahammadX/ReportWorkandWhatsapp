@@ -2,7 +2,7 @@
 
 ***Program For Write Report Working Daily and Sent by Whatsapp By Eng Mahammad Qassem***
 
->Language Program : Python
+>Language Program : Python and Bash Scripting
 ***
 >You Need install library name pywhatkit
 ***pip install pywhatkit***
